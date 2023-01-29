@@ -5,8 +5,10 @@ body {
   }
   
   .topnav {
+    position: fixed;
     top: 0;
     width: 100%;
+    max-width: 2550px;
     overflow: hidden;
     background-color: #333;
   }
@@ -16,7 +18,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
   }
 
   .topnav a:hover {
@@ -34,7 +36,6 @@ body {
 
   .home {
     margin-top: 70px;
-    height: 600px;
   }
 
   .home h2{
@@ -66,7 +67,9 @@ body {
   }
 
   .about {
-    margin: auto;
+    padding-top: 23%;
+    margin-left: 25%;
+    margin-right: 25%;
     width: 50%;
     text-align: center;
   }
