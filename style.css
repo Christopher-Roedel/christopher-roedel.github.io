@@ -117,6 +117,7 @@ body {
 
   .edu-info {
     text-align: left;
+    font-size: small;
   }
   
   .edu-left {
@@ -126,7 +127,7 @@ body {
 
   .edu-left-text {
     float: right;
-    padding-right: 5%;
+    padding-right: 9%;
   }
 
   .edu-right {
@@ -150,6 +151,7 @@ body {
     text-align: left;
     width: 24%;
     padding: 6px;
+    font-size: small;
   }
 
   .work1 li {
@@ -161,6 +163,7 @@ body {
     text-align: left;
     width: 24%;
     padding: 6px;
+    font-size: small;
   }
 
   .work2 li {
@@ -172,6 +175,7 @@ body {
     text-align: left;
     width: 24%;
     padding: 6px;
+    font-size: small;
   }
 
   .work3 li {
@@ -183,6 +187,7 @@ body {
     text-align: left;
     width: 24%;
     padding: 6px;
+    font-size: small;
   }
 
   .work4 li {
@@ -229,12 +234,13 @@ body {
     text-align: left;
     width: 40%;
     padding-left: 22%;
+    font-size: small;
   }
 
   .lead1-1 {
     float: left;
     text-align: left;
-    width: 30%;
+    width: 40%;
     padding: 6px;
   }
 
@@ -248,7 +254,11 @@ body {
   .lead2 {
     float: left;
     text-align: left;
-    width: 29%;
+    width: 35%;
+  }
+
+  .lead2 li {
+    font-size: small;
   }
 
   .portfolio {
@@ -263,17 +273,26 @@ body {
   .address {
     float: left;
     width: 33.3%;
+  }
 
+  .address p {
+    font-size: small;
   }
 
   .phone {
     float: left;
     width: 33.3%;
+  }
 
+  .phone p {
+    font-size: small;
   }
 
   .email {
     float: left;
     width: 33.3%;
-  
+  }
+
+  .email p {
+    font-size: small;
   }
